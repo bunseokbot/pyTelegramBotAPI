@@ -7,8 +7,7 @@ import re
 
 from html.parser import HTMLParser
 
-# API_TOKEN = '<api_token>'
-API_TOKEN = '281147219:AAGD7xF_g69yEqnejSTL-18hsUxvjpCO-aA'
+API_TOKEN = '<api_token>'
 
 bot = telebot.TeleBot(API_TOKEN)
 
